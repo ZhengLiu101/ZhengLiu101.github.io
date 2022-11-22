@@ -8,6 +8,7 @@ author_profile: true
 **(Senior) PC Member**:
 * **KDD**  2019, 2020, 2021, 2022
 * **WWW**  2019, 2020, 2021, 2022
+* **NeurIPS**  2022
 * **ICLR**  2021
 * **AAAI** 2022
 
