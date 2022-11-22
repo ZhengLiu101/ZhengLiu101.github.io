@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hao Liu's Homepage"
+title                    : "Zheng Liu's Homepage"
 title_separator          : "-"
-name                     : &name "Hao Liu"
-description              : &description "Assistant Professor"
-description              : &description "HKUST(GZ)"
-url                      : https://RaymondHLIU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zheng Liu"
+description              : &description "Technique Specialist"
+description              : &description "Huawei Poisson Lab"
+url                      : https://ZhengLiu101.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RaymondHLIU/RaymondHLIU.github.io"
+repository               : "ZhengLiu101/ZhengLiu101.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,15 +79,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Hao Liu"
-  avatar           : "haoliu.jpg"
+  name             : "Dr. Zheng Liu"
+  avatar           : "zhengliu.jpg"
   bio              : |
-    The Hong Kong University of <br>
-    Science and Technology (Guangzhou)
-  location         : "Hong Kong SAR"
+    Huawei Poisson Lab
+  location         : "Shenzhen, China"
   employer         :
   googlescholar    : 
-  email            : "liuh@ust.hk"
+  email            : "zhengliu1026@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RaymondHLIU"
+  github           : "ZhengLiu101"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +103,6 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
