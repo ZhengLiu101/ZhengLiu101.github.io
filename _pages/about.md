@@ -16,5 +16,5 @@ Dr. Zheng Liu works as a technique specialist on search and recommendation algor
   * Media coverage (in Chinese): [稠密检索新突破：华为提出掩码自编码预训练模型，大幅刷新多项基准](https://mp.weixin.qq.com/s/z9mwg1fFyY3K26Y2sTJjKQ)
 * **[Uni-Retriever]**. A package solution developed for Bing Sponsored Search, which is built upon the joint optimization of dense retriever and ANN index.
   * Publications: [Distill-VQ (SIGIR'22)](https://dl.acm.org/doi/abs/10.1145/3477495.3531799), [BiDR (WWW'22)](https://arxiv.org/pdf/2201.05409.pdf), [MoPQ (EMNLP'21)](https://aclanthology.org/2021.emnlp-main.640/)
-  * Codebase: [LibVQ](https://github.com/staoxiao)
+  * Codebase: [LibVQ](https://github.com/staoxiao/LibVQ)
   * The team champions [MS MARCO doc ranking leaderboard](https://microsoft.github.io/msmarco/) for two straight times in 2021/06/24 and 2021/07/14, leading to +1.3 points MRR@100 improvement in total!
