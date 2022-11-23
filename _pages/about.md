@@ -11,7 +11,7 @@ Dr. Zheng Liu works as a technique specialist on search and recommendation algor
 
 ### Research Highlights
 * **[RetroMAE]** A family of pre-trained algorithms tailored for deep semantic retrieval: simple, low-cost, and remarkably competitive throughout different settings.
-  * Publications: [RetroMAE (EMNLP'22)](https://arxiv.org/abs/2205.12035), [RetroMAE v2](https://arxiv.org/abs/2211.08769) :new:
+  * Publications: [RetroMAE (EMNLP'22)](https://arxiv.org/abs/2205.12035), [RetroMAE v2](https://arxiv.org/abs/2211.08769) 
   * Codebase: [RetroMAE](https://github.com/staoxiao/RetroMAE)
   * Media coverage (in Chinese): [稠密检索新突破：华为提出掩码自编码预训练模型，大幅刷新多项基准](https://mp.weixin.qq.com/s/z9mwg1fFyY3K26Y2sTJjKQ)
 * **[Uni-Retriever]**. A package solution developed for Bing Sponsored Search, which is built upon the joint optimization of dense retriever and ANN index.
