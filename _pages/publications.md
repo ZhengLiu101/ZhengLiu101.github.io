@@ -32,7 +32,7 @@ Denvy Deng, Liangjie Zhang, Qi Zhang, Xing Xie. [Progressively OPtimized Bi-Gran
 
 **2021**
 * **[EMNLP]** Shitao Xiao, **Zheng Liu**, Yingxia Shao, Defu Lian, Xing Xie. [Matching-oriented Product Quantization For Ad-hoc Retrieval](https://aclanthology.org/2021.emnlp-main.640.pdf). In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. 
-* **[EMNLP]** Shuxian Bi, Chaozhuo Li, Xiao Han, Zheng Liu, Xing Xie, Haizhen Huang and Zengxuan Wen. [Leveraging Bidding Graphs for Advertiser-Aware Relevance Modeling in Sponsored Search](https://aclanthology.org/2021.findings-emnlp.191/). In Findings of the Association for Computational Linguistics: EMNLP 2021.
+* **[EMNLP]** Shuxian Bi, Chaozhuo Li, Xiao Han, **Zheng Liu**, Xing Xie, Haizhen Huang and Zengxuan Wen. [Leveraging Bidding Graphs for Advertiser-Aware Relevance Modeling in Sponsored Search](https://aclanthology.org/2021.findings-emnlp.191/). In Findings of the Association for Computational Linguistics: EMNLP 2021.
 * **[NeurIPS]** Junhan Yang, **Zheng Liu**, Shitao Xiao, Chaozhuo Li, Defu Lian, Sanjay Agrawal, Amit Singh, Guangzhong Sun, Xing Xie. [GraphFormers: GNN-nested Transformers for Representation Learning on Textual Graph](https://proceedings.neurips.cc/paper/2021/hash/f18a6d1cde4b205199de8729a6637b42-Abstract.html). In Advances in Neural Information Processing Systems 34 (NeurIPS 2021). 
 * **[KDD]** Danyang Liu, Jianxun Lian, **Zheng Liu**, Xiting Wang, Guangzhong Sun, Xing Xie. [Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning](https://dl.acm.org/doi/abs/10.1145/3447548.3467315). In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining.
 * **[SIGIR]** Xinyan Fan, **Zheng Liu**, Jianxun Lian, Wayne Xin Zhao, Xing Xie, Ji-Rong Wen. [Lighter and Better: Low-Rank Decomposed Self-Attention Networks for Next-Item Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462978). In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval.
@@ -48,7 +48,7 @@ Candidates](https://dl.acm.org/doi/abs/10.1145/3397271.3401088). In Proceedings 
 
 **2019**
 * **[IJCAI]** **Zheng Liu**, Yu Xing, Fangzhao Wu, Mingxiao An, Xing Xie. [Hi-Fi Ark: Deep User Representation via High-Fidelity Archive Network](https://www.ijcai.org/proceedings/2019/424). In Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence. 
-* **[ACL]** Mingxiao An, Fangzhao Wu, Chuhan Wu, Kun Zhang, Zheng Liu, Xing Xie. [Neural news recommendation with long-and short-term user representations](https://aclanthology.org/P19-1033/). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. 
+* **[ACL]** Mingxiao An, Fangzhao Wu, Chuhan Wu, Kun Zhang, **Zheng Liu**, Xing Xie. [Neural news recommendation with long-and short-term user representations](https://aclanthology.org/P19-1033/). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. 
 
 **Before 2019**
 * **[KDD]** **Zheng Liu**, Xing Xie, Lei Chen. [Context-aware academic collaborator recommendation](https://dl.acm.org/doi/abs/10.1145/3219819.3220050). In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining.
