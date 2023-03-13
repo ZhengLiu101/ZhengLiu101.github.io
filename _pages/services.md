@@ -4,6 +4,7 @@ permalink: /services/
 author_profile: true
 ---
 
+Invited lecturer for [CCF Advanced Disciplines Lecture (ADL) on Embedding Learning and Search Engines](https://www.ccf.org.cn/Focus/2022-09-30/775088.shtml)
 
 **(Senior) PC Member**:
 * **KDD**  2019, 2020, 2021, 2022
