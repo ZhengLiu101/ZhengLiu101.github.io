@@ -12,8 +12,9 @@ permalink: /publications/
 
 
 **2023**
-* **[SIGIR]** Chaofan Li, **Zheng Liu**, Shitao Xiao, Yingxia Shao, Defu Lian, Zhao Cao. LibVQ: [A Toolkit For Optimizing Vector Quantization And Efficient Neural Retrieval](). ([Codebase](https://github.com/staoxiao/LibVQ/tree/demo), [Demo](https://youtu.be/OuKcgOxcLIQ}))
-* **[SIGIR]** Haitao Li, Qingyao Ai, Jiaxin Mao, Yiqun Liu, **Zheng Liu**, Zhao Cao. Constructing Tree-based Index for Efficient and Effective Dense Retrieval
+* **[SIGIR]** Chaofan Li, **Zheng Liu**, Shitao Xiao, Yingxia Shao, Defu Lian, Zhao Cao. LibVQ: [A Toolkit For Optimizing Vector Quantization And Efficient Neural Retrieval](). ([Codebase](https://github.com/staoxiao/LibVQ/tree/demo), [Demo](https://youtu.be/OuKcgOxcLIQ})). System demonstration in SIGIR 2023.
+* **[SIGIR]** Defu Lian, Xu Huang, Xiaolong Chen, Jin Chen, Yankai Wang, Haoran Jin, Rui Fan, Xingmei Wang, **Zheng Liu**, Le Wu and Enhong Chen. [RecStudio: Towards a Highly-Modularized Recommender System](). [Codebase](https://github.com/ustcml/RecStudio). Resource paper in SIGIR 2023.
+* **[SIGIR]** Haitao Li, Qingyao Ai, Jiaxin Mao, Yiqun Liu, **Zheng Liu**, Zhao Cao. [Constructing Tree-based Index for Efficient and Effective Dense Retrieval](), In Proceedings of SIGIR 2023.
 * **[WWW]** Xu Huang, Defu Lian, Jin Chen, **Liu Zheng**, Xing Xie and Enhong Chen. [Cooperative Retriever and Ranker in Deep Recommenders](https://arxiv.org/abs/2206.14649). In Proceedings of the Web Conference 2023.
 * **[DASFAA]** Wenqi Sun, Xinyan Fan, **Zheng Liu**, Ji-Rong Wen, Wayne Xin Zhao. [Towards Efficient and Effective Transformers for Sequential Recommendation](). In Proceedings of the 28th International Conference on Database Systems for Advanced Applications.
 * **[TKDE]** Chaozhuo Li, Senzhang Wang, **Zheng Liu**, Xing Xie, Lei Chen, Philip S. Yu. [Semi-Supervised Variational User Identity Linkage via Noise-Aware Self-Learning](https://arxiv.org/abs/2112.07373). Accepted to IEEE Transactions on Knowledge and Data Engineering.
