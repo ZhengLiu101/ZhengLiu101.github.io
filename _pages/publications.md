@@ -6,13 +6,14 @@ permalink: /publications/
 
 **Preprints**
 * Shitao Xiao, **Zheng Liu**, Yingxia Shao, Defu Lian, Shengluan Hou, Zhao Cao. [ColBERT-Lite: High-Fidelity Light-Weighting of Late Interaction Retrievers Via Differentiable Vector Quantization]().
-* Chaofan Li, **Zheng Liu**, Shitao Xiao, Yingxia Shao, Defu Lian, Zhao Cao. LibVQ: [A Toolkit For Optimizing Vector Quantization And Efficient Neural Retrieval](). ([Codebase](https://github.com/staoxiao/LibVQ/tree/demo), [Demo](https://youtu.be/OuKcgOxcLIQ}))
 * Hongjin Qian, Yutao Zhu, Zhicheng Dou, Haoqi Gu, Xinyu Zhang, **Zheng Liu**, Ruofei Lai, Zhao Cao, Jian-Yun Nie, Ji-Rong Wen. [WebBrain: Learning to Generate Factually Correct Articles for Queries by Grounding on Large Web Corpus](https://openreview.net/forum?id=eiuj6cNv4iI) ([Media Coverage](https://www.jiqizhixin.com/articles/2022-11-09-10?from=synced&keyword=webbrain) in Chinese).
 * Shitao Xiao, **Zheng Liu**, [RetroMAE v2: Duplex Masked Auto-Encoder For Pre-Training Retrieval-Oriented Language Models](https://arxiv.org/abs/2211.08769). ([Codebase](https://github.com/staoxiao/RetroMAE), SOTA pre-trained model on [MSMARCO](https://microsoft.github.io/msmarco/) and [BEIR](https://paperswithcode.com/sota/zero-shot-text-search-on-beir) benchmark).
 * Peitian Zhang, **Zheng Liu**. [Bi-Phase Enhanced IVFPQ for Time-Efficient Ad-hoc Retrieval](https://arxiv.org/abs/2210.05521). ([Codebase](https://github.com/namespace-Pt/Adon))
 
 
 **2023**
+* **[SIGIR]** Chaofan Li, **Zheng Liu**, Shitao Xiao, Yingxia Shao, Defu Lian, Zhao Cao. LibVQ: [A Toolkit For Optimizing Vector Quantization And Efficient Neural Retrieval](). ([Codebase](https://github.com/staoxiao/LibVQ/tree/demo), [Demo](https://youtu.be/OuKcgOxcLIQ}))
+* **[SIGIR]** Haitao Li, Qingyao Ai, Jiaxin Mao, Yiqun Liu, **Zheng Liu**, Zhao Cao. Constructing Tree-based Index for Efficient and Effective Dense Retrieval
 * **[WWW]** Xu Huang, Defu Lian, Jin Chen, **Liu Zheng**, Xing Xie and Enhong Chen. [Cooperative Retriever and Ranker in Deep Recommenders](https://arxiv.org/abs/2206.14649). In Proceedings of the Web Conference 2023.
 * **[DASFAA]** Wenqi Sun, Xinyan Fan, **Zheng Liu**, Ji-Rong Wen, Wayne Xin Zhao. [Towards Efficient and Effective Transformers for Sequential Recommendation](). In Proceedings of the 28th International Conference on Database Systems for Advanced Applications.
 * **[TKDE]** Chaozhuo Li, Senzhang Wang, **Zheng Liu**, Xing Xie, Lei Chen, Philip S. Yu. [Semi-Supervised Variational User Identity Linkage via Noise-Aware Self-Learning](https://arxiv.org/abs/2112.07373). Accepted to IEEE Transactions on Knowledge and Data Engineering.
