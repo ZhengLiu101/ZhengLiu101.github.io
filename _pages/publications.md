@@ -12,6 +12,7 @@ permalink: /publications/
 
 
 **2023**
+* **[ACL]** Shitao Xiao, **Zheng Liu**, Yingxia Shao, Zhao Cao, [RetroMAE-2: Duplex Masked Auto-Encoder For Pre-Training Retrieval-Oriented Language Models](https://arxiv.org/pdf/2305.02564v1.pdf). In Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL'23). 
 * **[SIGIR]** Chaofan Li, **Zheng Liu**, Shitao Xiao, Yingxia Shao, Defu Lian, Zhao Cao. LibVQ: [A Toolkit For Optimizing Vector Quantization And Efficient Neural Retrieval](). ([Codebase](https://github.com/staoxiao/LibVQ/tree/demo), [Demo](https://youtu.be/OuKcgOxcLIQ})). System demonstration in SIGIR 2023.
 * **[SIGIR]** Defu Lian, Xu Huang, Xiaolong Chen, Jin Chen, Yankai Wang, Haoran Jin, Rui Fan, Xingmei Wang, **Zheng Liu**, Le Wu and Enhong Chen. [RecStudio: Towards a Highly-Modularized Recommender System](). [Codebase](https://github.com/ustcml/RecStudio). Resource paper in SIGIR 2023.
 * **[SIGIR]** Haitao Li, Qingyao Ai, Jiaxin Mao, Yiqun Liu, **Zheng Liu**, Zhao Cao. [Constructing Tree-based Index for Efficient and Effective Dense Retrieval](), In Proceedings of SIGIR 2023.
